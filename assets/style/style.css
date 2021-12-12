@@ -43,7 +43,7 @@ div.well {
 	margin: 2rem 0;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 600px) {
 	div.well {
 		padding: 2rem 3rem;
 	}
