@@ -11,6 +11,7 @@ theme = 'pico'
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
 title = 'Blakerspace'
+googleAnalytics = 'G-9L3YYLV3KH'
 
 [params]
 customCSS = [
