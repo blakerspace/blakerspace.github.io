@@ -4,7 +4,7 @@ subtitle = ""
 tags = []
 date = 2024-05-28
 draft = false
-description = "A look into how I was able to get dozens of free Cadbury chocolates during a flawed promotion"
+description = "A look into how I was able to get dozens of free Cadbury chocolates from their promotion"
 banner = 'img/boost-bars/boost-collage.jpg'
 +++
 
