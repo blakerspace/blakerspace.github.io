@@ -16,7 +16,6 @@ googleAnalytics = 'G-9L3YYLV3KH'
 [params]
 customCSS = [
 	"style/style.css",
-	"style/theme.sass",
 ] # Path relative to assets folder
 #customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
